@@ -1,5 +1,8 @@
 ****Extending the features of encoding and imputing missing values in PySpark:****
-The new feature code is present in the following location : https://github.com/RamchandraReddy07/Extending-the-features-of-encoding-and-impu-ng-missing-values-in-PySpark/tree/main/python/pyspark/pandas/spark
+
+**The new feature code is present in the following location** : https://github.com/RamchandraReddy07/Extending-the-features-of-encoding-and-impu-ng-missing-values-in-PySpark/tree/main/python/pyspark/pandas/spark
+
+
 The development plan aims to contribute to Apache Spark by adding new features and techniques to PySpark. The focus is on adding encoding and imputing missing values using Pandas-API within Spark, integrating libraries such as boto3 and TensorFlow for cloud infrastructure and machine learning models, respectively.
 
 **Project Idea:**
